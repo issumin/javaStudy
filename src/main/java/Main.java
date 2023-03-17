@@ -14,3 +14,4 @@ public class Main {
         System.out.println("홀수: "+ sum1 + "" +"짝수: "+sum2);
     }
 }
+//test
